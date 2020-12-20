@@ -1,0 +1,3 @@
+0000001 Horse horse mammal 0 0 
+2 Coal cat kitty 0 0 
+3 Luna Cat kitty 0 0 
