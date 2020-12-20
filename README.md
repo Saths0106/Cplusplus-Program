@@ -12,3 +12,6 @@ The hardest part for me really was writing the for loops that iterated through a
 
 # What skills from this project will be transferable to other projects and/or coursework? 
 I'm certain at some point in my programming career I will have to use two or more programming languages to create a program. Currently I believe the big ones are Java and Python together because Python is quite efficient at certain small tasks and data processing but it is helpeful to learn how to call Java code into a C++ program and to understand how it works. I wish we had delved more into it as I will most certainly need a refresher before I use it again, but I've found that's coding in general. Everything I know how to do well I only know how to do because I've done it many times, and I always have to re-lookup information when I've only worked with something once or twice. 
+
+# How did you make this program maintainable, readable, and adaptable?
+I learnt when I first started coding that I should try to keep my code as readable as possible. I try to keep brackets indented to the same level so I can tell what bracket belongs to what block of code, I try to re-write unnecessarily large blocks of code into smaller more efficient blocks, and I use comments to let the reader, or myself later on, understand what my code is supposed to do in plain english. 
